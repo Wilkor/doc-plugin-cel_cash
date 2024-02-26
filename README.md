@@ -18,3 +18,23 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
 
 
 ![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/fdfc3b2c-e36f-4469-9263-acebe2a00219)
+
+
+   Em seguida, usar no chrome:
+   
+   ![image](https://user-images.githubusercontent.com/34819624/208984825-6bb8e412-70f9-4d92-852b-90510b0ba778.png)
+
+
+  - Depois de ativado a extensão no Chrome, seu blipDesk ficará com esse ícone.
+  
+  ![image](https://user-images.githubusercontent.com/34819624/208979059-2e8abae9-c1ae-4d9b-ba2c-4dfea2de5df2.png)
+
+  OU
+![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/af38b36b-73f5-4a08-a6d6-bc4b6d3ac820)
+
+
+![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/a7075607-79da-485e-a7e5-230842c34121)
+
+![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/684a517f-b3f7-4eb7-b071-dbc358e24b42)
+
+  
