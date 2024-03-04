@@ -29,12 +29,23 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar sua 
   
   ![image](https://user-images.githubusercontent.com/34819624/208979059-2e8abae9-c1ae-4d9b-ba2c-4dfea2de5df2.png)
 
-  OU
+  **OU** dessa forma dependendo da versão que você estiver
+  
 ![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/af38b36b-73f5-4a08-a6d6-bc4b6d3ac820)
 
+ # Gerando boleto ou pix
 
+ - Digite o CPF ou CNPJ do cliente
+   
 ![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/a7075607-79da-485e-a7e5-230842c34121)
+
+
+- Caso tenha boletos em aberto, trará uma lista com o código de barras ou código pix.
 
 ![image](https://github.com/Wilkor/doc-plugin-cel_cash/assets/34819624/684a517f-b3f7-4eb7-b071-dbc358e24b42)
 
-  
+- Assim que gerar, você pode copiar os código e passar para o cliente na conversa. 
+
+Em caso de dúvidas, você pode entrar em contato conosco para tirar qualquer tipo de dúvida sobre a configuração da extensão
+
+E-mail: contato@pontoparse.net
